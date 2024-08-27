@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "inter";
+    src: url("Inter-VariableFont_opszwght.ttf");
+}
+
+body {
+    background-color: #1F2937;
+    font-family: "inter";
+    margin: auto;
+    padding: 100px;
+    padding-top: 150px;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 10vh;
+}
+
+#randomP {
+    color: #4ADF86;
+    font-weight: bold;
+    font-size: 10vh;
+}
+
+p {
+    color: #D5D4D8;
+    font-size: 4vh;
+}
+
+button {
+    background-color: #10B981;
+    font-size: 2vh;
+    border-radius: 5px;
+    border:#10B981;
+    border-width: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: "inter";
+    color: #FFFFFF;
+}
+
+hr {
+    text-align: center;
+    color: #2F3E53;
+    size: 1px;
+    width: auto;
+}
+
+.pwBtn {
+    background-color: #273549;
+    font-size: 2vh;
+    font-family: "inter";
+    color: #55F991;
+    border: #273549;
+    border-radius: 5px;
+    border-width: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    min-width: 250px;
+    min-height: 40px;
+}
+
+#passwordBox {
+    display: auto;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    border-color: #2F3E53;
+    border-top-width: 1px;
+}
